@@ -415,10 +415,10 @@ section {
           .footer-wrapper .box-footer .social-media a.facebook:hover {
             background: #FFFFFF;
             color: #000000; }
-        .footer-wrapper .box-footer .social-media a.twitter {
-          background: #1DA1F2;
+        .footer-wrapper .box-footer .social-media a.yt {
+          background: red;
           color: #FFFFFF; }
-          .footer-wrapper .box-footer .social-media a.twitter:hover {
+          .footer-wrapper .box-footer .social-media a.yt:hover {
             background: #FFFFFF;
             color: #000000; }
         .footer-wrapper .box-footer .social-media a.linkedin {
